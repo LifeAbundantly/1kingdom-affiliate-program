@@ -111,7 +111,7 @@ This program invites participants to embody these teachings by sowing generously
 
 ## **Call to Action: Partner with Us to Advance the Kingdom**
 
-[Kingdom-Minded Church Name], this is your opportunity to join a movement that aligns with Jesus’ mission to proclaim the gospel, restore lives, and bring freedom. Together, we can:  
+NOW, this is your opportunity to join a movement that aligns with Jesus’ mission to proclaim the gospel, restore lives, and bring freedom. Together, we can:  
 1. **Empower your congregation** to live out Kingdom principles of giving and reaping.  
 2. **Transform communities** by addressing poverty, restoring families, and inspiring dreams.  
 3. **Expand God’s Kingdom** through sustainable generosity and faith-driven initiatives.  
@@ -125,7 +125,7 @@ Let us labor together for the glory of God and the joy of His people.
 --- 
 
 ### **Next Steps**  
-1. Schedule a meeting to discuss implementation strategies tailored to your church.  
+1. Schedule a meeting to discuss implementation strategies tailored to you.  
 2. Review financial projections and impact models.  
 3. Commit to launching this program as a Kingdom partner.  
 
