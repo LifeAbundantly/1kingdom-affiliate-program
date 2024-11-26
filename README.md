@@ -27,7 +27,7 @@ At the core of this program is the power of generosity. Participants sow a one-t
      - Reduce poverty and isolation.  
      - Create thriving, Spirit-filled communities where dreams are reignited and lives are transformed.  
 
-   - **1% for Cody Haskins**: As the co-creator with God of this initiative, I, Cody Haskins, will steward this portion to ensure the continued growth, refinement, and impact of this program.
+   - **1% for Cody Haskins**: As the co-creator with God of this initiative, I, Cody Haskins, will steward this portion to ensure the continued growth and refinement, to make a global impact with Holy Spirit empowered generosity.
 
 ---
 
@@ -46,7 +46,7 @@ Participants who engage in the program experience a shift from the toil of earni
   - Establish businesses or initiatives that align with Kingdom values.  
 
 ### **Community Transformation through the Kingdom Mission**  
-The **9% allocation** for the "Son of Man" belief system fuels impactful projects that:  
+The **9% allocation** for the "Son of Man" belief system fuels participating Churches boldly to:  
 1. **Restore Families**  
    - Provide counseling and support to families in crisis.  
    - Offer resources to strengthen marriages and parent-child relationships.  
@@ -67,14 +67,14 @@ The **9% allocation** for the "Son of Man" belief system fuels impactful project
 
 ## **Biblical Foundation for Generosity and Impact**
 
-This initiative is grounded in the teachings of Jesus and the principles of the Kingdom of God:  
+This initiative is grounded in the expressed image of Jesus and the principles of the Kingdom of God:  
 - **"The Kingdom of Heaven is like a mustard seed... Though it is the smallest of all seeds, when it grows, it is the largest of garden plants and becomes a tree, so that the birds come and perch in its branches."** *(Matthew 13:31-32)*  
 
 - **"Freely you have received; freely give."** *(Matthew 10:8)*  
 
 - **"The Son of Man came not to be served, but to serve, and to give his life as a ransom for many."** *(Matthew 20:28)*  
 
-This program invites participants to embody these teachings by sowing generously and reaping abundantly, all while serving as co-laborers in advancing the Kingdom of God.
+This program invites participants to embodiment of Jesus by sowing generously and reaping abundantly, all while serving as co-laborers in advancing the Kingdom of God.
 
 ---
 
@@ -86,14 +86,14 @@ This program invites participants to embody these teachings by sowing generously
 
 ### **Affiliate Model**
 - Participants sharing their affiliate links with just 30 people generate:  
-  - **30 x $1,222 x 90% = $32,994 per participant**.  
+  - **30 x $1,222 x 90% = $32,994 per participant**.  "30, 60, and 100fold" Mark 4:20
   - This revenue empowers individuals to reinvest in their communities, ministries, and dreams.  
 
 ### **Community Impact Breakdown**
 - **$3 billion** raised through 0.5% of the demographic:  
   - **$2.7 billion (90%)** distributed to participants.  
   - **$270 million (9%)** fuels Kingdom mission projects.  
-  - **$30 million (1%)** supports program stewardship and expansion.  
+  - **$30 million (1%)** supports Holy Spirit generosity stewardship and expansion.  
 
 ---
 
@@ -125,8 +125,8 @@ Let us labor together for the glory of God and the joy of His people.
 --- 
 
 ### **Next Steps**  
-1. Schedule a meeting to discuss implementation strategies tailored to you.  
-2. Review financial projections and impact models.  
+1. Schedule a meeting to discuss implementation with me, Cody Haskins, @ rpareapercody@gmail.com and title the subject "Spirit of Genorosity".  
+2. Review financial projections and impact models based on your influence/ Church congregants.  
 3. Commit to launching this program as a Kingdom partner.  
 
 Together, we can transform lives and communities, declaring: **“Behold, I am making all things new.”** *(Revelation 21:5)*
