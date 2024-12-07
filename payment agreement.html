@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Agreement - ABBA's Kingdom Donation Program</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        p {
+            color: #555;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+        .acknowledge {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .button:disabled {
+            background-color: #95a5a6;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Payment Agreement</h1>
+        <p>Thank you for partnering with <span class="highlight">ABBA's Kingdom Donation Program</span>. Your one-time donation of $1,222 supports the Kingdom mission, empowers community growth, and provides you with access to program benefits.</p>
+
+        <h2>Key Terms</h2>
+        <ul>
+            <li>The donation amount is $1,222 and is non-refundable.</li>
+            <li>90% of your donation goes directly to the affiliate mission and 10% supports Kingdom operations.</li>
+            <li>By proceeding, you agree to the eternal principles outlined in the Member Guidelines.</li>
+        </ul>
+
+        <div class="acknowledge">
+            <input type="checkbox" id="agreement" onclick="toggleButton()"> 
+            <label for="agreement">I agree to the Payment Terms.</label>
+            <br><br>
+            <a href="donation-completion.html" class="button" id="continueBtn" disabled>Proceed to Donation Completion</a>
+        </div>
+
+        <div class="footer">
+            <p>“The Lord bless you and keep you; the Lord make His face shine on you.” - Numbers 6:24-25</p>
+        </div>
+    </div>
+
+    <script>
+        function toggleButton() {
+            const checkbox = document.getElementById("agreement");
+            const button = document.getElementById("continueBtn");
+            button.disabled = !checkbox.checked;
+        }
+    </script>
+</body>
+</html>
